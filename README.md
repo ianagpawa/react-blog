@@ -28,15 +28,14 @@ react-blog/
     |   ├── actions/
     |   |    └── index.js
     |   ├── components/
-    |   |    ├── app.js
-    |   |    ├── chart.js
-    |   |    └── google_map.js
+    |   |    ├── XXXXX.js
+    |   |    └── XXXXX.js
     |   ├── containers/
-    |   |    ├── search_bar.js
-    |   |    └── weather_list.js
+    |   |    ├── XXXXX.js
+    |   |    └── XXXXX.js
     |   ├── reducers/
     |   |    ├── index.js
-    |   |    └── reducer_weather.js
+    |   |    └── XXXX.js
     |   └── index.js
     ├── style/
     |   └── style.css
