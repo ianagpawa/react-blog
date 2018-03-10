@@ -2,7 +2,7 @@
 ##### This repo is for blog utilizing React and Redux.    
 
 ### Quick Start
--Clone the repo: `git clone https://github.com/ianagpawa/weather-react.git`
+-Clone the repo: `git clone https://github.com/ianagpawa/react-blog.git`
 
 
 #### Dependencies
