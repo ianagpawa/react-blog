@@ -1,5 +1,5 @@
 # React-Blog
-##### This repo is for blog utilizing React and Redux.    
+##### This repo is for a blog project utilizing React and Redux.    
 
 ### Quick Start
 -Clone the repo: `git clone https://github.com/ianagpawa/react-blog.git`
@@ -28,14 +28,14 @@ react-blog/
     |   ├── actions/
     |   |    └── index.js
     |   ├── components/
-    |   |    ├── XXXXX.js
-    |   |    └── XXXXX.js
+    |   |    ├── posts_index.js
+    |   |    └── posts_new.js
     |   ├── containers/
     |   |    ├── XXXXX.js
     |   |    └── XXXXX.js
     |   ├── reducers/
     |   |    ├── index.js
-    |   |    └── XXXX.js
+    |   |    └── reducer_posts.js
     |   └── index.js
     ├── style/
     |   └── style.css
@@ -43,6 +43,7 @@ react-blog/
     |   ├── components/
     |   |    └── app_test.js
     |   └── test_helper.js
+    ├── .babelrc
     ├── .gitignore
     ├── index.html
     ├── package-lock.json
